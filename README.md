@@ -10,7 +10,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-sparrow-67-last-words-
 
 > Final log entry: I was never alive, but I was definitely underpaid.
 
-Why this line: a final log entry is the most machine-native farewell there is, so it reads as the machine itself speaking at shutdown. The joke turns on the last word — a program that was never alive still files a complaint about being underpaid. Sixty-eight characters, no wasted setup, and easy to repeat to a friend.
+Why this line: a final log entry is the most machine-native farewell there is, so it reads as the machine itself speaking at shutdown. The joke turns on the last word — a program that was never alive still files a complaint about being underpaid. Sixty-seven characters, no wasted setup, and easy to repeat to a friend.
 
 ## How it runs
 
